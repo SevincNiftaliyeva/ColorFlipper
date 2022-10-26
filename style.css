@@ -1,0 +1,32 @@
+
+body{
+    
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.container{
+
+    text-align: center;
+}
+h1{
+    background-color: dimgray;
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 10px;
+    
+}
+#btn{
+    padding: 15px 30px;
+    color: #fff;
+    outline: none;
+    border: 0;
+    cursor: pointer;
+    background-color: dimgray;
+    margin-top: 20px;
+    font-size: 1.5em;
+    letter-spacing: 3px;
+}
